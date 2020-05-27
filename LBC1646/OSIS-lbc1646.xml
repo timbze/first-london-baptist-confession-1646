@@ -5,9 +5,12 @@
       http://www.crosswire.org/osis/osisCore.2.1.1.xsd">
     <osisText osisIDWork="LBC1646" osisRefWork="defaultReferenceScheme" xml:lang="en">
         <header>
+            <revisionDesc resp="Timmy Braun"><date>2020.05.27</date>
+                <p>First release</p>
+            </revisionDesc>
             <work osisWork="LBC1646">
-                <title>London Baptist Confession of 1646</title>
-                <identifier type="OSIS">KJV.LBC1646</identifier>
+                <title>The First London Baptist Confession of Faith, 1646</title>
+                <identifier type="OSIS">Genbook.LBC1646</identifier>
                 <refSystem>Bible.KJV</refSystem>
             </work>
             <work osisWork="defaultReferenceScheme">
