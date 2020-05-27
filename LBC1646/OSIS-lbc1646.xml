@@ -11,6 +11,7 @@
             <work osisWork="LBC1646">
                 <title>The First London Baptist Confession of Faith, 1646</title>
                 <identifier type="OSIS">Genbook.LBC1646</identifier>
+                <rights type="x-copyright">Public Domain</rights>
                 <refSystem>Bible.KJV</refSystem>
             </work>
             <work osisWork="defaultReferenceScheme">
