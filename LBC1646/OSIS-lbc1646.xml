@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.crosswire.org/osis/" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.crosswire.org/osis/
+      http://www.crosswire.org/osis/osisCore.2.1.1.xsd">
+    <osisText osisIDWork="LBC1646" osisRefWork="defaultReferenceScheme" xml:lang="en">
+        <header>
+            <work osisWork="LBC1646">
+                <title>London Baptist Confession of 1646</title>
+                <identifier type="OSIS">KJV.LBC1646</identifier>
+                <refSystem>Bible.KJV</refSystem>
+            </work>
+            <work osisWork="defaultReferenceScheme">
+                <refSystem>Bible.KJV</refSystem>
+            </work>
+        </header>
+    </osisText>
+</osis>
