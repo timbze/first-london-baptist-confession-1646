@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<osis xmlns="http://www.crosswire.org/osis/" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.crosswire.org/osis/
-      http://www.crosswire.org/osis/osisCore.2.1.1.xsd">
+<osis xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
     <osisText osisIDWork="LBC1646" osisRefWork="book" xml:lang="en">
         <header>
             <revisionDesc resp="Timmy Braun"><date>2020.05.27</date>
