@@ -18,7 +18,6 @@
                 <refSystem>Bible</refSystem>
             </work>
         </header>
-<div type="book" osisID="LBC1646">
     <div type="chapter" osisID="Introduction">
         <title>
             Introduction
@@ -36,11 +35,16 @@
         </title>
         <p>
     The Lord our God is but one God, whose subsistence is in Himself; whose essence cannot be comprehended by any but himself, who only hath immortality, dwelling in the light, which no man can approach unto; who is in Himself most holy, every way infinite, in greatness, wisdom, power, love, merciful and gracious, long-suffering, and abundant in goodness and truth; who giveth being, moving, and preservation to all creatures.
-    <scripRef passage="1Cor 8:6">1Cor 8:6</scripRef>,
-    <scripRef passage="Is 44:6, 46:9">Isa 44:6, 46:9</scripRef>--,
-    <reference osisRef="Isa.44.6">Isa. 44:6, </reference><reference osisRef="Isa.46.9">46:9</reference>,
-    Exod. 3:14, 1 Tim 6:16, Isa. 43:15; Ps. 147:5, Deut. 32:3; Job 36:5; Jer. 10:12, Exod. 34:6,7, Acts 17:28; Rom. 11:36.
         </p>
+        <br />
+        <p>
+        <reference osisRef="1Cor.8.6 Isa.44.6 Isa.46.9 Exo.3.14 1Tim.6.16 Isa.43.15">1Cor 8:6, Isa. 44:6, 46:9, Exod. 3:14, 1 Tim 6:16, Isa. 43:15</reference>;
+        <reference osisRef="Ps.147.5 Deut.32.3">Ps. 147:5, Deut. 32:3</reference>; 
+        <reference osisRef="Job.36.5">Job 36:5</reference>; 
+        <reference osisRef="Jer.10.12 Exo.34.6-Exo.34.7 Act.17.28">Jer. 10:12, Exod. 34:6-7, Acts 17:28</reference>; 
+        <reference osisRef="Rom.11.36">Rom. 11:36</reference>
+        </p>
+        
     </div>
     <div type="chapter" osisID="Section 2">
         <title>
@@ -525,6 +529,5 @@
         
         Come, Lord Jesus, come quickly.
     </div>
-</div>
     </osisText>
 </osis>
