@@ -5,7 +5,7 @@
       xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
     <osisText osisIDWork="LBC1646" osisRefWork="book" xml:lang="en">
         <header>
-            <revisionDesc resp="Timmy Braun"><date>2020.05.29</date>
+            <revisionDesc resp="Timmy Braun"><date>2020.05.30</date>
                 <p>First release</p>
             </revisionDesc>
             <work osisWork="LBC1646">
@@ -22,15 +22,13 @@
         <title>
             Introduction
         </title>
-        <hi type="bold">
-            <p>
-                The first edition was published in 1644. This second edition "corrected and enlarged" was originally published in 1646.
-            </p>
-            <br />
-            <p>
-                A confession of faith of seven congregations or churches of Christ in London, which are commonly, but unjustly called Anabaptists; published for the vindication of the truth and information of the ignorant; likewise for the taking off those aspersions which are frequently, both in pulpit and print, unjustly cast upon them. Printed at London, Anno 1646.
-            </p>
-        </hi>
+        <p>
+            The first edition was published in 1644. This second edition "corrected and enlarged" was originally published in 1646.
+        </p>
+        <br />
+        <p>
+            A confession of faith of seven congregations or churches of Christ in London, which are commonly, but unjustly called Anabaptists; published for the vindication of the truth and information of the ignorant; likewise for the taking off those aspersions which are frequently, both in pulpit and print, unjustly cast upon them. Printed at London, Anno 1646.
+        </p>
     </div>
     <div type="chapter" osisID="Section 1">
         <title>
@@ -420,15 +418,15 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Eph. 1:14</reference>;
-            <reference osisRef="">Heb. 5:9</reference>;
-            <reference osisRef="">Matt. 1:21</reference>;
-            <reference osisRef="">John 17:6</reference>;
-            <reference osisRef="">Heb. 7:25</reference>;
-            <reference osisRef="">1 Cor. 2:12</reference>;
-            <reference osisRef="">Rom. 8:29-30</reference>;
-            <reference osisRef="">1 John 5:12</reference>;
-            <reference osisRef="">John 15:13, 3:16</reference>.
+            <reference osisRef="Eph.1.14">Eph. 1:14</reference>;
+            <reference osisRef="Heb.5.9">Heb. 5:9</reference>;
+            <reference osisRef="Matt.1.21">Matt. 1:21</reference>;
+            <reference osisRef="John.17.6">John 17:6</reference>;
+            <reference osisRef="Heb.7.25">Heb. 7:25</reference>;
+            <reference osisRef="1Cor.2.12">1 Cor. 2:12</reference>;
+            <reference osisRef="Rom.8.29-Rom.8.30">Rom. 8:29-30</reference>;
+            <reference osisRef="1John.5.12">1 John 5:12</reference>;
+            <reference osisRef="John.15.13 John.3.16">John 15:13, 3:16</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 22">
@@ -440,13 +438,13 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Eph. 2:8</reference>;
-            <reference osisRef="">John 6:29, 4:10</reference>;
-            <reference osisRef="">Phil. 1:29</reference>;
-            <reference osisRef="">Gal. 5:22</reference>;
-            <reference osisRef="">John 17:17</reference>;
-            <reference osisRef="">Heb. 4:11-12</reference>;
-            <reference osisRef="">John 6:63</reference>.
+            <reference osisRef="Eph.2.8">Eph. 2:8</reference>;
+            <reference osisRef="John.6.29 John.4.10">John 6:29, 4:10</reference>;
+            <reference osisRef="Phil.1.29">Phil. 1:29</reference>;
+            <reference osisRef="Gal.5.22">Gal. 5:22</reference>;
+            <reference osisRef="John.17.17">John 17:17</reference>;
+            <reference osisRef="Heb.4.11-Heb.4.12">Heb. 4:11-12</reference>;
+            <reference osisRef="John.6.63">John 6:63</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 23">
@@ -458,10 +456,10 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 7:24-25</reference>;
-            <reference osisRef="">John 13:10, 10:28-29</reference>;
-            <reference osisRef="">1 Pet. 1:4-6</reference>;
-            <reference osisRef="">Isa. 49:13-16</reference>.
+            <reference osisRef="Matt.7.24-Matt.7.25">Matt. 7:24-25</reference>;
+            <reference osisRef="John.13.10 John.10.28-John.10.29">John 13:10, 10:28-29</reference>;
+            <reference osisRef="1Pet.1.4-1Pet.1.6">1 Pet. 1:4-6</reference>;
+            <reference osisRef="Isa.49.13-Isa.49.16">Isa. 49:13-16</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 24">
@@ -473,12 +471,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Rom. 10:17</reference>;
-            <reference osisRef="">1 Cor. 1:28</reference>;
-            <reference osisRef="">Rom. 9:16</reference>;
-            <reference osisRef="">Ezek. 16:16</reference>;
-            <reference osisRef="">Rom. 3:12, 1:16</reference>;
-            <reference osisRef="">Eph. 1:19, Col. 2:12</reference>.
+            <reference osisRef="Rom.10.17">Rom. 10:17</reference>;
+            <reference osisRef="1Cor.1.28">1 Cor. 1:28</reference>;
+            <reference osisRef="Rom.9.16">Rom. 9:16</reference>;
+            <reference osisRef="Ezek.16.16">Ezek. 16:16</reference>;
+            <reference osisRef="Rom.3.12 Rom.1.16">Rom. 3:12, 1:16</reference>;
+            <reference osisRef="Eph.1.19 Col.2.12">Eph. 1:19, Col. 2:12</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 25">
@@ -490,12 +488,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">John 3:14,15, 1:12</reference>;
-            <reference osisRef="">Isa. 55:1</reference>;
-            <reference osisRef="">John 7:37</reference>;
-            <reference osisRef="">1 Tim. 1:15</reference>;
-            <reference osisRef="">Rom. 4:5, 5:8</reference>;
-            <reference osisRef="">Acts 5:30-31, 2:36, 1 Cor. 1:22, 24</reference>.
+            <reference osisRef="John.3.14-John.3.15 John.1.12">John 3:14-15, 1:12</reference>;
+            <reference osisRef="Isa.55.1">Isa. 55:1</reference>;
+            <reference osisRef="John.7.37">John 7:37</reference>;
+            <reference osisRef="1Tim.1.15">1 Tim. 1:15</reference>;
+            <reference osisRef="Rom.4.5 Rom.5.8">Rom. 4:5, 5:8</reference>;
+            <reference osisRef="Acts.5.30-Acts.5.31 Acts.2.36 1Cor.1.22 1Cor.1.24">Acts 5:30-31, 2:36, 1 Cor. 1:22, 24</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 26">
@@ -507,10 +505,10 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Pet. 1:5, 2 Cor. 12:9, 1 Cor. 15:10</reference>;
-            <reference osisRef="">Phil. 2:12-13</reference>;
-            <reference osisRef="">John 15:5</reference>;
-            <reference osisRef="">Gal. 2:19-20</reference>.
+            <reference osisRef="1Pet.1.5 2Cor.12.9 1Cor.15.10">1 Pet. 1:5, 2 Cor. 12:9, 1 Cor. 15:10</reference>;
+            <reference osisRef="Phil.2.12-Phil.2.13">Phil. 2:12-13</reference>;
+            <reference osisRef="John.15.5">John 15:5</reference>;
+            <reference osisRef="Gal.2.19-Gal.2.20">Gal. 2:19-20</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 27">
@@ -522,10 +520,10 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Thess. 1:1</reference>;
-            <reference osisRef="">John 17:21, 20:17</reference>;
-            <reference osisRef="">Heb. 2:11, 1 John 4:16</reference>;
-            <reference osisRef="">Gal. 2:19-20</reference>.
+            <reference osisRef="1Thess.1.1">1 Thess. 1:1</reference>;
+            <reference osisRef="John.17.21 John.20.17">John 17:21, 20:17</reference>;
+            <reference osisRef="Heb.2.11 1John.4.16">Heb. 2:11, 1 John 4:16</reference>;
+            <reference osisRef="Gal.2.19-Gal.2.20">Gal. 2:19-20</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 28">
@@ -537,12 +535,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 John 1:7</reference>;
-            <reference osisRef="">Heb. 10:14, 9:26</reference>;
-            <reference osisRef="">2 Cor. 5:19</reference>;
-            <reference osisRef="">Rom. 3:23</reference>;
-            <reference osisRef="">Acts 13:38-39</reference>;
-            <reference osisRef="">Rom. 5:1, 3:25, 30</reference>.
+            <reference osisRef="1John.1.7">1 John 1:7</reference>;
+            <reference osisRef="Heb.10.14 Heb.9.26">Heb. 10:14, 9:26</reference>;
+            <reference osisRef="2Cor.5.19">2 Cor. 5:19</reference>;
+            <reference osisRef="Rom.3.23">Rom. 3:23</reference>;
+            <reference osisRef="Acts.13.38-Acts.13.39">Acts 13:38-39</reference>;
+            <reference osisRef="Rom.5.1 Rom.3.25 Rom.3.30">Rom. 5:1, 3:25, 30</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 29">
@@ -554,11 +552,11 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Cor. 12</reference>;
-            <reference osisRef="">1 Pet. 2:9</reference>;
-            <reference osisRef="">Eph. 1:4</reference>;
-            <reference osisRef="">1 John 4:16</reference>;
-            <reference osisRef="">Matt. 28:20</reference>.
+            <reference osisRef="1Cor.12.1">1 Cor. 12</reference>;
+            <reference osisRef="1Pet.2.9">1 Pet. 2:9</reference>;
+            <reference osisRef="Eph.1.4">Eph. 1:4</reference>;
+            <reference osisRef="1John.4.16">1 John 4:16</reference>;
+            <reference osisRef="Matt.28.20">Matt. 28:20</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 30">
@@ -570,11 +568,11 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">2 Cor. 5:19</reference>;
-            <reference osisRef="">Rom. 5:9-10</reference>;
-            <reference osisRef="">Isa. 54:10</reference>;
-            <reference osisRef="">Eph. 2:13-14, 4:7</reference>;
-            <reference osisRef="">Rom. 5:10-11</reference>.
+            <reference osisRef="2Cor.5.19">2 Cor. 5:19</reference>;
+            <reference osisRef="Rom.5.9-Rom.5.10">Rom. 5:9-10</reference>;
+            <reference osisRef="Isa.54.10">Isa. 54:10</reference>;
+            <reference osisRef="Eph.2.13-Eph.2.14 Eph.4.7">Eph. 2:13-14, 4:7</reference>;
+            <reference osisRef="Rom.5.10-Rom.5.11">Rom. 5:10-11</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 31">
@@ -586,14 +584,14 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Rom. 7:23-24</reference>;
-            <reference osisRef="">Eph. 6:10-11</reference>, etc.;
-            <reference osisRef="">Heb. 2:9-10, 2 Tim. 3:12</reference>;
-            <reference osisRef="">Rom. 8:29</reference>;
-            <reference osisRef="">1 Thess. 3:3</reference>;
-            <reference osisRef="">Gal. 2:19-20</reference>;
-            <reference osisRef="">2 Cor. 5:7</reference>;
-            <reference osisRef="">Deut. 2:5</reference>.
+            <reference osisRef="Rom.7.23-Rom.7.24">Rom. 7:23-24</reference>;
+            <reference osisRef="Eph.6.10-Eph.6.11">Eph. 6:10-11</reference>, etc.;
+            <reference osisRef="Heb.2.9-Heb.2.10 2Tim.3.12">Heb. 2:9-10, 2 Tim. 3:12</reference>;
+            <reference osisRef="Rom.8.29">Rom. 8:29</reference>;
+            <reference osisRef="1Thess.3.3">1 Thess. 3:3</reference>;
+            <reference osisRef="Gal.2.19-Gal.2.20">Gal. 2:19-20</reference>;
+            <reference osisRef="2Cor.5.7">2 Cor. 5:7</reference>;
+            <reference osisRef="Deut.2.5">Deut. 2:5</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 32">
@@ -605,9 +603,9 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">John 16:33, 15:5</reference>;
-            <reference osisRef="">Phil. 4:11, Heb. 2:9-10</reference>;
-            <reference osisRef="">2 Tim. 4:18</reference>.
+            <reference osisRef="John.16.33 John.15.5">John 16:33, 15:5</reference>;
+            <reference osisRef="Phil.4.11 Heb.2.9-Heb.2.10">Phil. 4:11, Heb. 2:9-10</reference>;
+            <reference osisRef="2Tim.4.18">2 Tim. 4:18</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 33">
@@ -619,19 +617,19 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 11:11</reference>;
-            <reference osisRef="">2 Thess. 1:1</reference>;
-            <reference osisRef="">1 Cor. 1:2</reference>;
-            <reference osisRef="">Eph. 1:1</reference>;
-            <reference osisRef="">Rom. 1:7</reference>;
-            <reference osisRef="">Acts 19:8-9, 26:18</reference>;
-            <reference osisRef="">2 Cor. 6:17</reference>;
-            <reference osisRef="">Rev. 18:4</reference>;
-            <reference osisRef="">Acts 2:37, 10:37</reference>;
-            <reference osisRef="">Rom. 10:10</reference>;
-            <reference osisRef="">Matt. 18:19-20</reference>;
-            <reference osisRef="">Acts 2:42, 9:26</reference>;
-            <reference osisRef="">1 Pet. 2:5</reference>.
+            <reference osisRef="Matt.11.11">Matt. 11:11</reference>;
+            <reference osisRef="2Thess.1.1">2 Thess. 1:1</reference>;
+            <reference osisRef="1Cor.1.2">1 Cor. 1:2</reference>;
+            <reference osisRef="Eph.1.1">Eph. 1:1</reference>;
+            <reference osisRef="Rom.1.7">Rom. 1:7</reference>;
+            <reference osisRef="Acts.19.8-Acts.19.9 Acts.26.18">Acts 19:8-9, 26:18</reference>;
+            <reference osisRef="2Cor.6.17">2 Cor. 6:17</reference>;
+            <reference osisRef="Rev.18.4">Rev. 18:4</reference>;
+            <reference osisRef="Acts.2.37 Acts.10.37">Acts 2:37, 10:37</reference>;
+            <reference osisRef="Rom.10.10">Rom. 10:10</reference>;
+            <reference osisRef="Matt.18.19-Matt.18.20">Matt. 18:19-20</reference>;
+            <reference osisRef="Acts.2.42 Acts.9.26">Acts 2:42, 9:26</reference>;
+            <reference osisRef="1Pet.2.5">1 Pet. 2:5</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 34">
@@ -643,13 +641,13 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 28:18</reference>, etc.;
-            <reference osisRef="">1 Cor. 11:24, 3:21</reference>;
-            <reference osisRef="">2 Cor. 6:18</reference>;
-            <reference osisRef="">Rom. 9:4-5</reference>;
-            <reference osisRef="">Ps. 133:3</reference>;
-            <reference osisRef="">Rom. 3:7, 10</reference>;
-            <reference osisRef="">Ezek. 47:2</reference>.
+            <reference osisRef="Matt.28.18">Matt. 28:18</reference>, etc.;
+            <reference osisRef="1Cor.11.24 1Cor.3.21">1 Cor. 11:24, 3:21</reference>;
+            <reference osisRef="2Cor.6.18">2 Cor. 6:18</reference>;
+            <reference osisRef="Rom.9.4-Rom.9.5">Rom. 9:4-5</reference>;
+            <reference osisRef="Ps.133.3">Ps. 133:3</reference>;
+            <reference osisRef="Rom.3.7 Rom.3.10">Rom. 3:7, 10</reference>;
+            <reference osisRef="Ezek.47.2">Ezek. 47:2</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 35">
@@ -661,17 +659,17 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Acts. 2:41, 47</reference>;
-            <reference osisRef="">Isa. 4:3, 1 Cor. 12:6-7</reference>, etc.;
-            <reference osisRef="">Ezek. 20:37, 40</reference>;
-            <reference osisRef="">Song of Sol. 4:12</reference>;
-            <reference osisRef="">Eph. 2:19</reference>;
-            <reference osisRef="">Rom. 12:4-6</reference>;
-            <reference osisRef="">Col. 1:12, 2:5-6, 19</reference>;
-            <reference osisRef="">Acts 20:32, 5:4, 2:44-45, 4:34-35</reference>;
-            <reference osisRef="">Luke 14:26</reference>;
-            <reference osisRef="">1 Tim. 6:1</reference>;
-            <reference osisRef="">Eph. 4:16</reference>.
+            <reference osisRef="Acts.2.41 Acts.2.47">Acts. 2:41, 47</reference>;
+            <reference osisRef="Isa.4.3 1Cor.12.6-1Cor.12.7">Isa. 4:3, 1 Cor. 12:6-7</reference>, etc.;
+            <reference osisRef="Ezek.20.37 Ezek.20.40">Ezek. 20:37, 40</reference>;
+            <reference osisRef="Song.4.12">Song of Sol. 4:12</reference>;
+            <reference osisRef="Eph.2.19">Eph. 2:19</reference>;
+            <reference osisRef="Rom.12.4-Rom.12.6">Rom. 12:4-6</reference>;
+            <reference osisRef="Col.1.12 Col.2.5-Col.2.6 Col.2.19">Col. 1:12, 2:5-6, 19</reference>;
+            <reference osisRef="Acts.20.32 Acts.5.4 Acts.2.44-Acts.2.45 Acts.4.34-Acts.4.35">Acts 20:32, 5:4, 2:44-45, 4:34-35</reference>;
+            <reference osisRef="Luke.14.26">Luke 14:26</reference>;
+            <reference osisRef="1Tim.6.1">1 Tim. 6:1</reference>;
+            <reference osisRef="Eph.4.16">Eph. 4:16</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 36">
@@ -683,12 +681,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Acts 1:23, 26, 6:3, 15:22, 25</reference>;
-            <reference osisRef="">Rom. 12:7-8</reference>;
-            <reference osisRef="">1 Tim. 3:2, 6-7</reference>;
-            <reference osisRef="">1 Cor. 12:8, 28</reference>;
-            <reference osisRef="">Heb. 13:7, 17</reference>;
-            <reference osisRef="">1 Pet. 5:1-3, 4:15</reference>.
+            <reference osisRef="Acts.1.23 Acts.1.26 Acts.6.3 Acts.15.22 Acts.15.25">Acts 1:23, 26, 6:3, 15:22, 25</reference>;
+            <reference osisRef="Rom.12.7-Rom.12.8">Rom. 12:7-8</reference>;
+            <reference osisRef="1Tim.3.2 1Tim.3.6-1Tim.3.7">1 Tim. 3:2, 6-7</reference>;
+            <reference osisRef="1Cor.12.8 1Cor.12.28">1 Cor. 12:8, 28</reference>;
+            <reference osisRef="Heb.13.7 Heb.13.17">Heb. 13:7, 17</reference>;
+            <reference osisRef="1Pet.5.1-1Pet.5.3 1Pet.4.15">1 Pet. 5:1-3, 4:15</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 37">
@@ -700,12 +698,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Heb. 5:4</reference>;
-            <reference osisRef="">John 10:3-4</reference>;
-            <reference osisRef="">Acts 20:28-29</reference>;
-            <reference osisRef="">Rom. 12:7-8</reference>;
-            <reference osisRef="">Heb. 13:7, 17</reference>;
-            <reference osisRef="">1 Pet. 5:1-3</reference>.
+            <reference osisRef="Heb.5.4">Heb. 5:4</reference>;
+            <reference osisRef="John.10.3-John.10.4">John 10:3-4</reference>;
+            <reference osisRef="Acts.20.28-Acts.20.29">Acts 20:28-29</reference>;
+            <reference osisRef="Rom.12.7-Rom.12.8">Rom. 12:7-8</reference>;
+            <reference osisRef="Heb.13.7 Heb.13.17">Heb. 13:7, 17</reference>;
+            <reference osisRef="1Pet.5.1-1Pet.5.3">1 Pet. 5:1-3</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 38">
@@ -717,12 +715,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Cor. 9:7, 14</reference>;
-            <reference osisRef="">Gal. 6:8</reference>;
-            <reference osisRef="">Phil. 4:15-16</reference>;
-            <reference osisRef="">2 Cor. 10:4</reference>;
-            <reference osisRef="">1 Tim. 1:2</reference>;
-            <reference osisRef="">Ps. 110:3</reference>.
+            <reference osisRef="1Cor.9.7 1Cor.9.14">1 Cor. 9:7, 14</reference>;
+            <reference osisRef="Gal.6.8">Gal. 6:8</reference>;
+            <reference osisRef="Phil.4.15-Phil.4.16">Phil. 4:15-16</reference>;
+            <reference osisRef="2Cor.10.4">2 Cor. 10:4</reference>;
+            <reference osisRef="1Tim.1.2">1 Tim. 1:2</reference>;
+            <reference osisRef="Ps.110.3">Ps. 110:3</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 39">
@@ -734,10 +732,10 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 28:18-19</reference>;
-            <reference osisRef="">John 4:1</reference>;
-            <reference osisRef="">Mark 16:15-16</reference>;
-            <reference osisRef="">Acts 2:37-38, 8:36-37</reference>, etc.
+            <reference osisRef="Matt.28.18-Matt.28.19">Matt. 28:18-19</reference>;
+            <reference osisRef="John.4.1">John 4:1</reference>;
+            <reference osisRef="Mark.16.15-Mark.16.16">Mark 16:15-16</reference>;
+            <reference osisRef="Acts.2.37-Acts.2.38 Acts.8.36-Acts.8.37">Acts 2:37-38, 8:36-37</reference>, etc.
         </p>
     </div>
     <div type="chapter" osisID="Section 40">
@@ -749,13 +747,13 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 3:16</reference>;
-            <reference osisRef="">Mark 15:9</reference> reads (into Jordan) in Greek;
-            <reference osisRef="">John 3:23, Acts 8:38</reference>;
-            <reference osisRef="">Rev. 1:5, 7:14</reference>;
-            <reference osisRef="">Heb. 10:22</reference>;
-            <reference osisRef="">Rom. 6:3-6</reference>;
-            <reference osisRef="">1 Cor. 15:28-29</reference>. The word baptizo signifies to dip or plunge (yet so as convenient garments be both upon the administrator and subject with all modesty).
+            <reference osisRef="Matt.3.16">Matt. 3:16</reference>;
+            <reference osisRef="Mark.15.9">Mark 15:9</reference> reads (into Jordan) in Greek;
+            <reference osisRef="John.3.23 Acts.8.38">John 3:23, Acts 8:38</reference>;
+            <reference osisRef="Rev.1.5 Rev.7.14">Rev. 1:5, 7:14</reference>;
+            <reference osisRef="Heb.10.22">Heb. 10:22</reference>;
+            <reference osisRef="Rom.6.3-Rom.6.6">Rom. 6:3-6</reference>;
+            <reference osisRef="1Cor.15.28-1Cor.15.29">1 Cor. 15:28-29</reference>. The word baptizo signifies to dip or plunge (yet so as convenient garments be both upon the administrator and subject with all modesty).
         </p>
     </div>
     <div type="chapter" osisID="Section 41">
@@ -767,14 +765,14 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Isa. 8:16</reference>;
-            <reference osisRef="">Eph. 2:7</reference>;
-            <reference osisRef="">Matt 28:19</reference>;
-            <reference osisRef="">John 4:2</reference>;
-            <reference osisRef="">Acts 20:7, 11:10</reference>;
-            <reference osisRef="">1 Cor. 11:2, 10:16-17</reference>;
-            <reference osisRef="">Rom. 16:2</reference>;
-            <reference osisRef="">Matt. 18:17</reference>.
+            <reference osisRef="Isa.8.16">Isa. 8:16</reference>;
+            <reference osisRef="Eph.2.7">Eph. 2:7</reference>;
+            <reference osisRef="Matt.28.19">Matt 28:19</reference>;
+            <reference osisRef="John.4.2">John 4:2</reference>;
+            <reference osisRef="Acts.20.7 Acts.11.10">Acts 20:7, 11:10</reference>;
+            <reference osisRef="1Cor.11.2 1Cor.10.16-1Cor.10.17">1 Cor. 11:2, 10:16-17</reference>;
+            <reference osisRef="Rom.16.2">Rom. 16:2</reference>;
+            <reference osisRef="Matt.18.17">Matt. 18:17</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 42">
@@ -786,10 +784,10 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Rom. 15:2</reference>;
-            <reference osisRef="">Matt. 18:17</reference>;
-            <reference osisRef="">1 Cor. 5:4, 11, 14, 12:6, 2:3</reference>;
-            <reference osisRef="">2 Cor. 2:6-7</reference>.
+            <reference osisRef="Rom.15.2">Rom. 15:2</reference>;
+            <reference osisRef="Matt.18.17">Matt. 18:17</reference>;
+            <reference osisRef="1Cor.5.4 1Cor.5.11 1Cor.5.14 1Cor.12.6 1Cor.2.3">1 Cor. 5:4, 11, 14, 12:6, 2:3</reference>;
+            <reference osisRef="2Cor.2.6-2Cor.2.7">2 Cor. 2:6-7</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 43">
@@ -801,11 +799,11 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Matt. 18:16, 17:18</reference>;
-            <reference osisRef="">Acts 11:2-3</reference>;
-            <reference osisRef="">1 Tim. 5:19</reference>, etc.;
-            <reference osisRef="">Col. 4:17</reference>;
-            <reference osisRef="">Acts 15:1-3</reference>.
+            <reference osisRef="Matt.18.16 Matt.17.18">Matt. 18:16, 17:18</reference>;
+            <reference osisRef="Acts.11.2-Acts.11.3">Acts 11:2-3</reference>;
+            <reference osisRef="1Tim.5.19">1 Tim. 5:19</reference>, etc.;
+            <reference osisRef="Col.4.17">Col. 4:17</reference>;
+            <reference osisRef="Acts.15.1-Acts.15.3">Acts 15:1-3</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 44">
@@ -817,12 +815,12 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Acts 20:27-28</reference>;
-            <reference osisRef="">Heb. 13:17, 24</reference>;
-            <reference osisRef="">Matt. 24:45</reference>;
-            <reference osisRef="">1 Thess. 5:2, 14</reference>;
-            <reference osisRef="">Jude 3, 20</reference>;
-            <reference osisRef="">Heb. 10:34-35, [cf. 24-25], 12:15</reference>.
+            <reference osisRef="Acts.20.27-Acts.20.28">Acts 20:27-28</reference>;
+            <reference osisRef="Heb.13.17 Heb.13.24">Heb. 13:17, 24</reference>;
+            <reference osisRef="Matt.24.45">Matt. 24:45</reference>;
+            <reference osisRef="1Thess.5.2 1Thess.5.14">1 Thess. 5:2, 14</reference>;
+            <reference osisRef="Jude.1.3 Jude.1.20">Jude 3, 20</reference>;
+            <reference osisRef="Heb.10.34-Heb.10.35 Heb.10.24-Heb.10.25 Heb.12.15">Heb. 10:34-35, [cf. 24-25], 12:15</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 45">
@@ -834,11 +832,11 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Cor. 14:3</reference>, etc.;
-            <reference osisRef="">Rom 12:6</reference>;
-            <reference osisRef="">1 Pet. 4:10-11</reference>;
-            <reference osisRef="">1 Cor. 12:7</reference>;
-            <reference osisRef="">1 Thess. 5:19</reference>, etc.
+            <reference osisRef="1Cor.14.3">1 Cor. 14:3</reference>, etc.;
+            <reference osisRef="Rom.12.6">Rom 12:6</reference>;
+            <reference osisRef="1Pet.4.10-1Pet.4.11">1 Pet. 4:10-11</reference>;
+            <reference osisRef="1Cor.12.7">1 Cor. 12:7</reference>;
+            <reference osisRef="1Thess.5.19">1 Thess. 5:19</reference>, etc.
         </p>
     </div>
     <div type="chapter" osisID="Section 46">
@@ -850,15 +848,15 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Rev. 2, 3</reference>;
-            <reference osisRef="">Acts 15:12</reference>;
-            <reference osisRef="">1 Cor. 1:10</reference>;
-            <reference osisRef="">Heb. 10:25</reference>;
-            <reference osisRef="">Jude 19</reference>;
-            <reference osisRef="">Rev. 2:20-21, 27</reference>;
-            <reference osisRef="">Acts 15:1-2</reference>;
-            <reference osisRef="">Rom. 14:1</reference>;
-            <reference osisRef="">15:1-3</reference>.
+            <reference osisRef="Rev.2.1 Rev.3.1">Rev. 2, 3</reference>;
+            <reference osisRef="Acts.15.12">Acts 15:12</reference>;
+            <reference osisRef="1Cor.1.10">1 Cor. 1:10</reference>;
+            <reference osisRef="Heb.10.25">Heb. 10:25</reference>;
+            <reference osisRef="Jude.1.19">Jude 19</reference>;
+            <reference osisRef="Rev.2.20-Rev.2.21 Rev.2.27">Rev. 2:20-21, 27</reference>;
+            <reference osisRef="Acts.15.1-Acts.15.2">Acts 15:1-2</reference>;
+            <reference osisRef="Rom.14.1">Rom. 14:1</reference>;
+            <reference osisRef="Rom.15.1-Rom.15.3">15:1-3</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 47">
@@ -870,15 +868,15 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Cor. 4:17, 14:33, 36, 16:1</reference>;
-            <reference osisRef="">Ps. 122:3</reference>;
-            <reference osisRef="">Eph. 2:12, 19</reference>;
-            <reference osisRef="">Rev. 21</reference>;
-            <reference osisRef="">1 Tim. 3:15, 6:13-14</reference>;
-            <reference osisRef="">1 Cor. 4:17</reference>;
-            <reference osisRef="">Acts 15:2-3</reference>;
-            <reference osisRef="">Song of Sol. 8:8-9</reference>;
-            <reference osisRef="">2 Cor. 8:1, 4, 13:14</reference>.
+            <reference osisRef="1Cor.4.17 1Cor.14.33 1Cor.14.36 1Cor.16.1">1 Cor. 4:17, 14:33, 36, 16:1</reference>;
+            <reference osisRef="Ps.122.3">Ps. 122:3</reference>;
+            <reference osisRef="Eph.2.12 Eph.2.19">Eph. 2:12, 19</reference>;
+            <reference osisRef="Rev.21.1">Rev. 21</reference>;
+            <reference osisRef="1Tim.3.15 1Tim.6.13-1Tim.6.14">1 Tim. 3:15, 6:13-14</reference>;
+            <reference osisRef="1Cor.4.17">1 Cor. 4:17</reference>;
+            <reference osisRef="Acts.15.2-Acts.15.3">Acts 15:2-3</reference>;
+            <reference osisRef="Song.8.8-Song.8.9">Song of Sol. 8:8-9</reference>;
+            <reference osisRef="2Cor.8.1 2Cor.8.4 2Cor.13.14">2 Cor. 8:1, 4, 13:14</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 48">
@@ -890,16 +888,16 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Rom. 13:1-2</reference>, etc.;
-            <reference osisRef="">1 Pet. 2:13-14</reference>;
-            <reference osisRef="">1 Tim. 2:1-3</reference>.
+            <reference osisRef="Rom.13.1-Rom.13.2">Rom. 13:1-2</reference>, etc.;
+            <reference osisRef="1Pet.2.13-1Pet.2.14">1 Pet. 2:13-14</reference>;
+            <reference osisRef="1Tim.2.1-1Tim.2.3">1 Tim. 2:1-3</reference>.
         </p>
         <br />
         <hi type="bold">
             Note:
         </hi>
         <p>
-            The supreme magistracy of this kingdom we acknowledge to be the king and parliament (now established) freely chosen by the kingdom, and that we are to maintain and defend all civil laws and civil officers made by them, which are for the good of the commonwealth. And we acknowledge with thankfulness, that God hath made this present king and parliament honorable in throwing down the prelatical hierarchy, because of their tyranny and oppression over us, under which this kingdom long groaned, for which we are ever engaged to bless God, and honor them for the same. And concerning the worship of God; there is but one lawgiver, which is able to save and destroy, <reference osisRef="">James 4:12</reference>; which is Jesus Christ, who hath given laws and rules sufficient in His word for His worship; and for any to make more, were to charge Christ with want of wisdom, or faithfulness, or both, in not making laws enough, or not good enough for His house: Surely it is our wisdom, duty, and privilege, to observe Christ's laws only, <reference osisRef="">Ps 2:6, 9-10, 12</reference>. So it is the magistrates duty to tender the liberty of mens' consciences, <reference osisRef="">Eccles. 8:8</reference> (which is the tenderest thing unto all conscientious men, and most dear unto them, and without which all other liberties will not be worth the naming, much less enjoying) and to protect all under them from all wrong, injury, oppression and molestation; so it is our duty not to be wanting in nothing which is for their honor and comfort, and whatsoever is for the wellbeing of the commonwealth wherein we live; it is our duty to do, and we believe it to be our express duty, especially in matters of religion, to be fully persuaded in our minds of the lawfulness of what we do, as knowing whatsoever is not of faith is sin. And as we cannot do anything contrary to our understandings and consciences, so neither can we forebear the doing of that which our understandings and consciences bind us to do. And if the magistrate should require us to do otherwise, we are to yield our persons in a passive way to their power, as the saints of old have done, James 5:4. And thrice happy shall he be, that shall lose his life for witnessing (though but for the least tittle) of the truth of the Lord Jesus Christ, <reference osisRef="">1 Pet. 5</reference>; <reference osisRef="">Gal. 5</reference>.
+            The supreme magistracy of this kingdom we acknowledge to be the king and parliament (now established) freely chosen by the kingdom, and that we are to maintain and defend all civil laws and civil officers made by them, which are for the good of the commonwealth. And we acknowledge with thankfulness, that God hath made this present king and parliament honorable in throwing down the prelatical hierarchy, because of their tyranny and oppression over us, under which this kingdom long groaned, for which we are ever engaged to bless God, and honor them for the same. And concerning the worship of God; there is but one lawgiver, which is able to save and destroy, <reference osisRef="Jas.4.12">James 4:12</reference>; which is Jesus Christ, who hath given laws and rules sufficient in His word for His worship; and for any to make more, were to charge Christ with want of wisdom, or faithfulness, or both, in not making laws enough, or not good enough for His house: Surely it is our wisdom, duty, and privilege, to observe Christ's laws only, <reference osisRef="Ps.2.6 Ps.2.9-Ps.2.10 Ps.2.12">Ps 2:6, 9-10, 12</reference>. So it is the magistrates duty to tender the liberty of mens' consciences, <reference osisRef="Eccl.8.8">Eccles. 8:8</reference> (which is the tenderest thing unto all conscientious men, and most dear unto them, and without which all other liberties will not be worth the naming, much less enjoying) and to protect all under them from all wrong, injury, oppression and molestation; so it is our duty not to be wanting in nothing which is for their honor and comfort, and whatsoever is for the wellbeing of the commonwealth wherein we live; it is our duty to do, and we believe it to be our express duty, especially in matters of religion, to be fully persuaded in our minds of the lawfulness of what we do, as knowing whatsoever is not of faith is sin. And as we cannot do anything contrary to our understandings and consciences, so neither can we forebear the doing of that which our understandings and consciences bind us to do. And if the magistrate should require us to do otherwise, we are to yield our persons in a passive way to their power, as the saints of old have done, James 5:4. And thrice happy shall he be, that shall lose his life for witnessing (though but for the least tittle) of the truth of the Lord Jesus Christ, <reference osisRef="1Pet.5.1">1 Pet. 5</reference>; <reference osisRef="Gal.5.1">Gal. 5</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 49">
@@ -911,18 +909,18 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Acts 2:40-41, 4:19, 5:28-29, 20:23</reference>;
-            <reference osisRef="">1 Thess. 3:3</reference>;
-            <reference osisRef="">Phil. 1:28-29</reference>;
-            <reference osisRef="">Dan. 3:16-17, 6:7, 10, 22-23</reference>;
-            <reference osisRef="">1 Tim. 6:13-14</reference>;
-            <reference osisRef="">Rom. 12:1, 8</reference>;
-            <reference osisRef="">1 Cor. 14:37</reference>;
-            <reference osisRef="">Rev. 2:20</reference>;
-            <reference osisRef="">2 Tim. 4:6-8</reference>;
-            <reference osisRef="">Rom. 14:10, 12</reference>;
-            <reference osisRef="">2 Cor. 5:10</reference>;
-            <reference osisRef="">Ps. 49:7, 50:22</reference>.
+            <reference osisRef="Acts.2.40-Acts.2.41 Acts.4.19 Acts.5.28-Acts.5.29 Acts.20.23">Acts 2:40-41, 4:19, 5:28-29, 20:23</reference>;
+            <reference osisRef="1Thess.3.3">1 Thess. 3:3</reference>;
+            <reference osisRef="Phil.1.28-Phil.1.29">Phil. 1:28-29</reference>;
+            <reference osisRef="Dan.3.16-Dan.3.17 Dan.6.7 Dan.6.10 Dan.6.22-Dan.6.23">Dan. 3:16-17, 6:7, 10, 22-23</reference>;
+            <reference osisRef="1Tim.6.13-1Tim.6.14">1 Tim. 6:13-14</reference>;
+            <reference osisRef="Rom.12.1 Rom.12.8">Rom. 12:1, 8</reference>;
+            <reference osisRef="1Cor.14.37">1 Cor. 14:37</reference>;
+            <reference osisRef="Rev.2.20">Rev. 2:20</reference>;
+            <reference osisRef="2Tim.4.6-2Tim.4.8">2 Tim. 4:6-8</reference>;
+            <reference osisRef="Rom.14.10 Rom.14.12">Rom. 14:10, 12</reference>;
+            <reference osisRef="2Cor.5.10">2 Cor. 5:10</reference>;
+            <reference osisRef="Ps.49.7 Ps.50.22">Ps. 49:7, 50:22</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 50">
@@ -934,13 +932,13 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">Acts 8:38, 10:1-2, 35</reference>;
-            <reference osisRef="">Rom. 16:23</reference>;
-            <reference osisRef="">Deut. 6:13</reference>;
-            <reference osisRef="">Rom. 1:9</reference>;
-            <reference osisRef="">2 Cor. 10-11</reference>;
-            <reference osisRef="">Jer. 4:2</reference>;
-            <reference osisRef="">Heb. 6:16</reference>.
+            <reference osisRef="Acts.8.38 Acts.10.1-Acts.10.2 Acts.10.35">Acts 8:38, 10:1-2, 35</reference>;
+            <reference osisRef="Rom.16.23">Rom. 16:23</reference>;
+            <reference osisRef="Deut.6.13">Deut. 6:13</reference>;
+            <reference osisRef="Rom.1.9">Rom. 1:9</reference>;
+            <reference osisRef="2Cor.10.1 2Cor.11.1">2 Cor. 10, 11</reference>;
+            <reference osisRef="Jer.4.2">Jer. 4:2</reference>;
+            <reference osisRef="Heb.6.16">Heb. 6:16</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 51">
@@ -952,13 +950,13 @@
         </p>
         <br />
         <p>
-            <reference osisRef="">1 Thess. 4:6</reference>;
-            <reference osisRef="">Rom. 13:5-7</reference>;
-            <reference osisRef="">Matt. 22:21</reference>;
-            <reference osisRef="">Titus 3</reference>;
-            <reference osisRef="">1 Pet. 2:15, 17, 5:5</reference>;
-            <reference osisRef="">Eph. 5:21, 23</reference>, etc. , <reference osisRef="">6:1,9</reference>;
-            <reference osisRef="">Titus 3:1-3</reference>.
+            <reference osisRef="1Thess.4.6">1 Thess. 4:6</reference>;
+            <reference osisRef="Rom.13.5-Rom.13.7">Rom. 13:5-7</reference>;
+            <reference osisRef="Matt.22.21">Matt. 22:21</reference>;
+            <reference osisRef="Titus.3.1">Titus 3</reference>;
+            <reference osisRef="1Pet.2.15 1Pet.2.17 1Pet.5.5">1 Pet. 2:15, 17, 5:5</reference>;
+            <reference osisRef="Eph.5.21 Eph.5.23">Eph. 5:21, 23</reference>, etc. , <reference osisRef="Eph.6.1 Eph.6.9">6:1, 9</reference>;
+            <reference osisRef="Titus.3.1-Titus.3.3">Titus 3:1-3</reference>.
         </p>
     </div>
     <div type="chapter" osisID="Section 52">
