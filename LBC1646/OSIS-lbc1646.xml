@@ -786,7 +786,7 @@
         <p>
             <reference osisRef="Rom.15.2">Rom. 15:2</reference>;
             <reference osisRef="Matt.18.17">Matt. 18:17</reference>;
-            <reference osisRef="1Cor.5.4 1Cor.5.11 1Cor.5.14 1Cor.12.6 1Cor.2.3">1 Cor. 5:4, 11, 14, 12:6, 2:3</reference>;
+            <reference osisRef="1Cor.5.4 1Cor.5.11">1 Cor. 5:4, 11</reference>, 14, <reference osisRef="1Cor.12.6 1Cor.2.3">12:6, 2:3</reference>;
             <reference osisRef="2Cor.2.6-2Cor.2.7">2 Cor. 2:6-7</reference>.
         </p>
     </div>
