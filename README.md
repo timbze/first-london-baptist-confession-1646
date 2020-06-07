@@ -4,4 +4,4 @@
 
 The text was first retrieved from [reformedreader.org](http://www.reformedreader.org/ccc/1646lbc.htm)
 
-Some corrections were applied from the information found [here](http://kinseydrivebaptistchurch.com/wp-content/uploads/2017/04/LONDON-BAPTIST.pdf). A note was added for all reference changes, signifying the original reference in the text.
+Some corrections were applied from the information found [here](http://kinseydrivebaptistchurch.com/wp-content/uploads/2017/04/LONDON-BAPTIST.pdf). A note was added for each reference change, signifying the original reference in the text.
