@@ -28,6 +28,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 		<p>
 			The first edition was published in 1644. This second edition "corrected and enlarged" was originally published in 1646.
 		</p>
+		<p />
 		<p>
 			A confession of faith of seven congregations or churches of Christ in London, which are commonly, but unjustly called Anabaptists; published for the vindication of the truth and information of the ignorant; likewise for the taking off those aspersions which are frequently, both in pulpit and print, unjustly cast upon them. Printed at London, Anno 1646.
 		</p>
@@ -297,6 +298,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="Deut.18.15">Deut. 18:15</reference>;
 			<reference osisRef="Heb.1.1">Heb. 1:1</reference>.
 		</p>
+		<p />
 		<hi type="bold">
 			Note:
 		</hi>
@@ -845,6 +847,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="1Pet.2.13-1Pet.2.14">1 Pet. 2:13-14</reference>;
 			<reference osisRef="1Tim.2.1-1Tim.2.3">1 Tim. 2:1-3</reference>.
 		</p>
+		<p />
 		<hi type="bold">
 			Note:
 		</hi>
