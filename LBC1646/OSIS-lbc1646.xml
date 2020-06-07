@@ -779,7 +779,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="Matt.24.45">Matt. 24:45</reference>;
 			<reference osisRef="1Thess.5.12-1Thess.5.13">1 Thess. 5:12-13</reference>;<note>Editor's correction: original reference was <reference osisRef="1Thess.5.2">1 Thess. 5:2</reference>, <reference osisRef="1Thess.5.14">14</reference></note>
 			<reference osisRef="Jude.1.3">Jude 3</reference>, <reference osisRef="Jude.1.20">20</reference>;
-			<reference osisRef="Heb.10.34-Heb.10.35">Heb. 10:34-35</reference>, <reference osisRef="Heb.10.24-Heb.10.25">[cf. 24-25]</reference>, <reference osisRef="Heb.12.15">12:15</reference>.
+			<reference osisRef="Heb.10.24-Heb.10.25">Heb. 10:24-25</reference> <note>Editor's correction: Original had <reference osisRef="Heb.10.34-Heb.10.35">Heb. 10:34-35</reference></note>, <reference osisRef="Heb.12.15">12:15</reference>.
 		</p>
 	</div>
 	<div type="chapter" osisID="Section 45">
@@ -921,7 +921,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 		</p>
 		<p>
 			<reference osisRef="Acts.24.15">Acts 24:15</reference>;
-			<reference osisRef="1Cor.5.10">1 Cor. 5:10</reference>;
+			<reference osisRef="2Cor.5.10">2 Cor. 5:10</reference>;<note>Editor's correction: original reference was <reference osisRef="1Cor.5.10">1Cor 5:10</reference></note>
 			<reference osisRef="Rom.14.12">Rom. 14:12</reference>;
 			[<reference osisRef="Matt.25">Matt. 25</reference>, <reference osisRef="Rev.22.11-Rev.22.15">Rev. 22:11-15</reference>]
 		</p>
