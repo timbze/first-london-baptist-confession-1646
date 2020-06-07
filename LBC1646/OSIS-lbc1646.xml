@@ -373,7 +373,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="Job.2.8">Job 2:8</reference>;
 			<reference osisRef="Rom.1.21">Rom. 1:21</reference>, <reference osisRef="Rom.9.17-Rom.9.18">9:17-18</reference>;
 			<reference osisRef="Eph.4.17-Eph.4.18">Eph. 4:17-18</reference>;
-			<reference osisRef="2Pet.2.1">2 Pet. 2</reference>.
+			<reference osisRef="2Pet.2">2 Pet. 2</reference>.
 		</p>
 	</div>
 	<div type="chapter" osisID="Section 20">
@@ -525,7 +525,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			All believers are a holy and sanctified people, and that sanctification is a spiritual grace of the new covenant, and an effect of the love of God manifested in the soul, whereby the believer presseth after a heavenly and evangelical obedience to all the commands, which Christ as head and king in His new covenant hath prescribed to them.
 		</p>
 		<p>
-			<reference osisRef="1Cor.12.1">1 Cor. 12</reference>;
+			<reference osisRef="1Cor.12">1 Cor. 12</reference>;
 			<reference osisRef="1Pet.2.9">1 Pet. 2:9</reference>;
 			<reference osisRef="Eph.1.4">Eph. 1:4</reference>;
 			<reference osisRef="1John.4.16">1 John 4:16</reference>;
@@ -805,7 +805,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			Thus being rightly gathered, and continuing in the obedience of the gospel of Christ, none are to separate for faults and corruptions (for as long as the church consists of men subject to failings, there will be difference in the true constituted church) until they have in due order, and tenderness, sought redress thereof.
 		</p>
 		<p>
-			<reference osisRef="Rev.2.1">Rev. 2</reference>, <reference osisRef="Rev.3.1">3</reference>;
+			<reference osisRef="Rev.2">Rev. 2</reference>, <reference osisRef="Rev.3">3</reference>;
 			<reference osisRef="Acts.15.12">Acts 15:12</reference>;
 			<reference osisRef="1Cor.1.10">1 Cor. 1:10</reference>;
 			<reference osisRef="Heb.10.25">Heb. 10:25</reference>;
@@ -827,7 +827,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="1Cor.4.17">1 Cor. 4:17</reference>, <reference osisRef="1Cor.14.33">14:33</reference>, <reference osisRef="1Cor.14.36">36</reference>, <reference osisRef="1Cor.16.1">16:1</reference>;
 			<reference osisRef="Ps.122.3">Ps. 122:3</reference>;
 			<reference osisRef="Eph.2.12">Eph. 2:12</reference>, <reference osisRef="Eph.2.19">19</reference>;
-			<reference osisRef="Rev.21.1">Rev. 21</reference>;
+			<reference osisRef="Rev.21">Rev. 21</reference>;
 			<reference osisRef="1Tim.3.15">1 Tim. 3:15</reference>, <reference osisRef="1Tim.6.13-1Tim.6.14">6:13-14</reference>;
 			<reference osisRef="1Cor.4.17">1 Cor. 4:17</reference>;
 			<reference osisRef="Acts.15.2-Acts.15.3">Acts 15:2-3</reference>;
@@ -852,7 +852,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			Note:
 		</hi>
 		<p>
-			The supreme magistracy of this kingdom we acknowledge to be the king and parliament (now established) freely chosen by the kingdom, and that we are to maintain and defend all civil laws and civil officers made by them, which are for the good of the commonwealth. And we acknowledge with thankfulness, that God hath made this present king and parliament honourable in throwing down the prelatical hierarchy, because of their tyranny and oppression over us, under which this kingdom long groaned, for which we are ever engaged to bless God, and honor them for the same. And concerning the worship of God; there is but one lawgiver, which is able to save and destroy, <reference osisRef="Jas.4.12">James 4:12</reference>; which is Jesus Christ, who hath given laws and rules sufficient in His word for His worship; and for any to make more, were to charge Christ with want of wisdom, or faithfulness, or both, in not making laws enough, or not good enough for His house: Surely it is our wisdom, duty, and privilege, to observe Christ’s laws only, <reference osisRef="Ps.2.6">Ps 2:6</reference>, <reference osisRef="Ps.2.9-Ps.2.10">9-10</reference>, <reference osisRef="Ps.2.12">12</reference>. So it is the magistrates duty to tender the liberty of mens’ consciences, <reference osisRef="Eccl.8.8">Eccles. 8:8</reference> (which is the tenderest thing unto all conscientious men, and most dear unto them, and without which all other liberties will not be worth the naming, much less enjoying) and to protect all under them from all wrong, injury, oppression and molestation; so it is our duty not to be wanting in nothing which is for their honor and comfort, and whatsoever is for the wellbeing of the commonwealth wherein we live; it is our duty to do, and we believe it to be our express duty, especially in matters of religion, to be fully persuaded in our minds of the lawfulness of what we do, as knowing whatsoever is not of faith is sin. And as we cannot do anything contrary to our understandings and consciences, so neither can we forebear the doing of that which our understandings and consciences bind us to do. And if the magistrate should require us to do otherwise, we are to yield our persons in a passive way to their power, as the saints of old have done, James 5:4. And thrice happy shall he be, that shall lose his life for witnessing (though but for the least tittle) of the truth of the Lord Jesus Christ, <reference osisRef="1Pet.5.1">1 Pet. 5</reference>; <reference osisRef="Gal.5.1">Gal. 5</reference>.
+			The supreme magistracy of this kingdom we acknowledge to be the king and parliament (now established) freely chosen by the kingdom, and that we are to maintain and defend all civil laws and civil officers made by them, which are for the good of the commonwealth. And we acknowledge with thankfulness, that God hath made this present king and parliament honourable in throwing down the prelatical hierarchy, because of their tyranny and oppression over us, under which this kingdom long groaned, for which we are ever engaged to bless God, and honor them for the same. And concerning the worship of God; there is but one lawgiver, which is able to save and destroy, <reference osisRef="Jas.4.12">James 4:12</reference>; which is Jesus Christ, who hath given laws and rules sufficient in His word for His worship; and for any to make more, were to charge Christ with want of wisdom, or faithfulness, or both, in not making laws enough, or not good enough for His house: Surely it is our wisdom, duty, and privilege, to observe Christ’s laws only, <reference osisRef="Ps.2.6">Ps 2:6</reference>, <reference osisRef="Ps.2.9-Ps.2.10">9-10</reference>, <reference osisRef="Ps.2.12">12</reference>. So it is the magistrates duty to tender the liberty of mens’ consciences, <reference osisRef="Eccl.8.8">Eccles. 8:8</reference> (which is the tenderest thing unto all conscientious men, and most dear unto them, and without which all other liberties will not be worth the naming, much less enjoying) and to protect all under them from all wrong, injury, oppression and molestation; so it is our duty not to be wanting in nothing which is for their honor and comfort, and whatsoever is for the wellbeing of the commonwealth wherein we live; it is our duty to do, and we believe it to be our express duty, especially in matters of religion, to be fully persuaded in our minds of the lawfulness of what we do, as knowing whatsoever is not of faith is sin. And as we cannot do anything contrary to our understandings and consciences, so neither can we forebear the doing of that which our understandings and consciences bind us to do. And if the magistrate should require us to do otherwise, we are to yield our persons in a passive way to their power, as the saints of old have done, James 5:4. And thrice happy shall he be, that shall lose his life for witnessing (though but for the least tittle) of the truth of the Lord Jesus Christ, <reference osisRef="1Pet.5">1 Pet. 5</reference>; <reference osisRef="Gal.5">Gal. 5</reference>.
 		</p>
 	</div>
 	<div type="chapter" osisID="Section 49">
@@ -905,7 +905,7 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<reference osisRef="1Thess.4.6">1 Thess. 4:6</reference>;
 			<reference osisRef="Rom.13.5-Rom.13.7">Rom. 13:5-7</reference>;
 			<reference osisRef="Matt.22.21">Matt. 22:21</reference>;
-			<reference osisRef="Titus.3.1">Titus 3</reference>;
+			<reference osisRef="Titus.3">Titus 3</reference>;
 			<reference osisRef="1Pet.2.15">1 Pet. 2:15</reference>, <reference osisRef="1Pet.2.17">17</reference>, <reference osisRef="1Pet.5.5">5:5</reference>;
 			<reference osisRef="Eph.5.21">Eph. 5:21</reference>, <reference osisRef="Eph.5.23">23</reference>, etc.,
 			<reference osisRef="Eph.6.1">6:1</reference>, <reference osisRef="Eph.6.9">9</reference>;
