@@ -5,11 +5,14 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 	xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
 	<osisText osisIDWork="LBC1646" osisRefWork="book" xml:lang="en">
 		<header>
+			<revisionDesc resp="Timmy Braun"><date>2020.06.08</date>
+				<p>Some more reference corrections. Added editor notes about reference changes.</p>
+			</revisionDesc>
 			<revisionDesc resp="David Haslam"><date>2020.06.06</date>
 				<p>Minor corrections. Tabs. Fixed multiple references.</p>
 			</revisionDesc>
 			<revisionDesc resp="Timmy Braun"><date>2020.05.30</date>
-				<p>First release</p>
+				<p>First draft preparation, build to sword module working</p>
 			</revisionDesc>
 			<work osisWork="LBC1646">
 				<title>The First London Baptist Confession of Faith, 1646</title>
