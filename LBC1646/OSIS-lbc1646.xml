@@ -3,7 +3,7 @@
 https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
-	<osisText osisIDWork="LBC1646" osisRefWork="book" xml:lang="en">
+	<osisText osisIDWork="BaptistConfession1646" osisRefWork="book" xml:lang="en">
 		<header>
 			<revisionDesc resp="Timmy Braun"><date>2020.06.14</date>
 				<p>Added Appendix by Benjamin Cox. 22 sections</p>
@@ -20,9 +20,9 @@ https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
 			<revisionDesc resp="Timmy Braun"><date>2020.05.30</date>
 				<p>First draft preparation, build to sword module working</p>
 			</revisionDesc>
-			<work osisWork="LBC1646">
+			<work osisWork="BaptistConfession1646">
 				<title>The First London Baptist Confession of Faith, 1646</title>
-				<identifier type="OSIS">Genbook.LBC1646</identifier>
+				<identifier type="OSIS">Genbook.BaptistConfession1646</identifier>
 				<rights type="x-copyright">Public Domain</rights>
 				<refSystem>Bible.KJV</refSystem>
 			</work>
