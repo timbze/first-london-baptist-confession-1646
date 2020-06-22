@@ -90,6 +90,7 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 				<item><reference osisRef="BaptistConfession1646:Confession/Section 50">Section L (50)</reference></item>
 				<item><reference osisRef="BaptistConfession1646:Confession/Section 51">Section LI (51)</reference></item>
 				<item><reference osisRef="BaptistConfession1646:Confession/Section 52">Section LII (52)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Conclusion">Conclusion</reference></item>
 			</list>
 
 			<title>Appendix (Benjamin Cox)</title>
