@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <osis xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-https://www.crosswire.org/osis/osisCore.2.1.1.xsd"
+https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
 	<osisText osisIDWork="BaptistConfession1646" osisRefWork="book" xml:lang="en">
