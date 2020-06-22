@@ -5,6 +5,9 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 	xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
 	<osisText osisIDWork="BaptistConfession1646" osisRefWork="book" xml:lang="en">
 		<header>
+			<revisionDesc resp="Timmy Braun"><date>2020.06.22</date>
+				<p>Added table of contents</p>
+			</revisionDesc>
 			<revisionDesc resp="Timmy Braun"><date>2020.06.14</date>
 				<p>Added Appendix by Benjamin Cox. 22 sections</p>
 			</revisionDesc>
@@ -31,16 +34,101 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 			</work>
 		</header>
 		<div type="majorSection" osisID="Confession">
-			<title>
-				Introduction
-			</title>
-			<p>
-				The first edition was published in 1644. This second edition "corrected and enlarged" was originally published in 1646.
-			</p>
-			<p />
-			<p>
-				A confession of faith of seven congregations or churches of Christ in London, which are commonly, but unjustly called Anabaptists; published for the vindication of the truth and information of the ignorant; likewise for the taking off those aspersions which are frequently, both in pulpit and print, unjustly cast upon them. Printed at London, Anno 1646.
-			</p>
+			<title>The First London Baptist Confession of Faith, 1646</title>
+			<title>Confession</title>
+			<list>
+				<item><reference osisRef="BaptistConfession1646:Confession/Introduction">Introduction</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 1">Section I (1)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 2">Section II (2)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 3">Section III (3)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 4">Section IV (4)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 5">Section V (5)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 6">Section VI (6)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 7">Section VII (7)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 8">Section VIII (8)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 9">Section IX (9)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 10">Section X (10)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 11">Section XI (11)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 12">Section XII (12)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 13">Section XIII (13)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 14">Section XIV (14)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 15">Section XV (15)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 16">Section XVI (16)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 17">Section XVII (17)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 18">Section XVIII (18)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 19">Section XIX (19)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 20">Section XX (20)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 21">Section XXI (21)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 22">Section XXII (22)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 23">Section XXIII (23)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 24">Section XXIV (24)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 25">Section XXV (25)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 26">Section XXVI (26)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 27">Section XXVII (27)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 28">Section XXVIII (28)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 29">Section XXIX (29)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 30">Section XXX (30)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 31">Section XXXI (31)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 32">Section XXXII (32)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 33">Section XXXIII (33)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 34">Section XXXIV (34)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 35">Section XXXV (35)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 36">Section XXXVI (36)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 37">Section XXXVII (37)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 38">Section XXXVIII (38)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 39">Section XXXIX (39)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 40">Section XL (40)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 41">Section XLI (41)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 42">Section XLII (42)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 43">Section XLIII (43)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 44">Section XLIV (44)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 45">Section XLV (45)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 46">Section XLVI (46)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 47">Section XLVII (47)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 48">Section XLVIII (48)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 49">Section XLIX (49)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 50">Section L (50)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 51">Section LI (51)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Confession/Section 52">Section LII (52)</reference></item>
+			</list>
+
+			<title>Appendix (Benjamin Cox)</title>
+			<list>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Introduction">Introduction</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 1">Section I (1)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 2">Section II (2)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 3">Section III (3)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 4">Section IV (4)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 5">Section V (5)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 6">Section VI (6)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 7">Section VII (7)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 8">Section VIII (8)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 9">Section IX (9)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 10">Section X (10)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 11">Section XI (11)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 12">Section XII (12)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 13">Section XIII (13)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 14">Section XIV (14)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 15">Section XV (15)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 16">Section XVI (16)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 17">Section XVII (17)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 18">Section XVIII (18)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 19">Section XIX (19)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 20">Section XX (20)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 21">Section XXI (21)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 22">Section XXII (22)</reference></item>
+			</list>
+			<div type="chapter" osisID="Introduction">
+				<title>The First London Baptist Confession of Faith, 1646</title>
+				<title>Introduction</title>
+				<p>
+					The first edition was published in 1644. This second edition "corrected and enlarged" was originally published in 1646.
+				</p>
+				<p />
+				<p>
+					A confession of faith of seven congregations or churches of Christ in London, which are commonly, but unjustly called Anabaptists; published for the vindication of the truth and information of the ignorant; likewise for the taking off those aspersions which are frequently, both in pulpit and print, unjustly cast upon them. Printed at London, Anno 1646.
+				</p>
+			</div>
 			<div type="chapter" osisID="Section 1">
 				<title>
 					Section I
@@ -1204,35 +1292,61 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 			</div>
 		</div>
 		<div type="majorSection" osisID="Appendix">
-			<title>
-				AN APPENDIX TO A CONFESSION OF FAITH (Benjamin Cox)
-			</title>
-			<p>
-				or A More Full Declaration of the Faith and Judgment of Baptized Believers
-			</p>
-			<p>
-				Occasioned by the Inquiry of Some Wo-affected and Godly Persons in the Country.
-			</p>
-			<p>
-				Written by Benjamin Cox, a Preacher of the Gospel of Jesus Christ
-			</p>
-			<p>
-				Published for the further clearing of Truth, and discovery of their mistake who have imagined a dissent in fundamentals when there is none. LONDON, Printed in the year 1646.
-			</p>
-			<p />
-			<p>
-				<reference osisRef="Matt.10.27-Matt.10.28">Matthew 10:27-28</reference>,
-				“What I tell you in darkness, that speak ye in light; and what ye hear in the ear, that preach ye upon the housetops. And fear not them which kill the body, but are not able to kill the soul; but rather fear him which is able to destroy both soul and body in hell.”
-			</p>
-			<p />
-			<hi type="bold">Declaration of the Faith and Judgment of Baptized Believers:</hi>
-			<p>
-				“Be ready always.” saith the Apostle Peter, “to give an answer to every man that asketh you a reason of the hope that is in you, with meekness and fear,”
-				<reference osisRef="1Pet.3.15">1 Pet.3:15</reference>. It is therefore our duty in meekness and love to give an answer to those godly persons, which desire to be fully informed of our judgment concerning religion and the ways of our God; To those therefore that have expressed a desire to be so informed, I thus answer.
-			</p>
-			<p>
-				In a book lately reprinted, entitled, A Confession of Faith of Several Congregations or Churches of Christ in London, etc. is a plain and sincere expression of our judgment in the things therein spoken of, in 52 Articles: And if our judgment touching some particulars, wherein we seem, or are supposed, to dissent from some others, do not appear clearly enough in that confession, I hope that same shall somewhat more clearly appear in this ensuing Appendix.
-			</p>
+			<title>APPENDIX TO A CONFESSION OF FAITH (Benjamin Cox)</title>
+			<list>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Introduction">Introduction</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 1">Section I (1)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 2">Section II (2)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 3">Section III (3)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 4">Section IV (4)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 5">Section V (5)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 6">Section VI (6)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 7">Section VII (7)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 8">Section VIII (8)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 9">Section IX (9)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 10">Section X (10)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 11">Section XI (11)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 12">Section XII (12)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 13">Section XIII (13)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 14">Section XIV (14)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 15">Section XV (15)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 16">Section XVI (16)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 17">Section XVII (17)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 18">Section XVIII (18)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 19">Section XIX (19)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 20">Section XX (20)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 21">Section XXI (21)</reference></item>
+				<item><reference osisRef="BaptistConfession1646:Appendix/Appx_Section 22">Section XXII (22)</reference></item>
+			</list>
+			<div type="chapter" osisID="Appx_Introduction">
+				<title>AN APPENDIX TO A CONFESSION OF FAITH (Benjamin Cox)</title>
+				<p>
+					or A More Full Declaration of the Faith and Judgment of Baptized Believers
+				</p>
+				<p>
+					Occasioned by the Inquiry of Some Wo-affected and Godly Persons in the Country.
+				</p>
+				<p>
+					Written by Benjamin Cox, a Preacher of the Gospel of Jesus Christ
+				</p>
+				<p>
+					Published for the further clearing of Truth, and discovery of their mistake who have imagined a dissent in fundamentals when there is none. LONDON, Printed in the year 1646.
+				</p>
+				<p />
+				<p>
+					<reference osisRef="Matt.10.27-Matt.10.28">Matthew 10:27-28</reference>,
+					“What I tell you in darkness, that speak ye in light; and what ye hear in the ear, that preach ye upon the housetops. And fear not them which kill the body, but are not able to kill the soul; but rather fear him which is able to destroy both soul and body in hell.”
+				</p>
+				<p />
+				<hi type="bold">Declaration of the Faith and Judgment of Baptized Believers:</hi>
+				<p>
+					“Be ready always.” saith the Apostle Peter, “to give an answer to every man that asketh you a reason of the hope that is in you, with meekness and fear,”
+					<reference osisRef="1Pet.3.15">1 Pet.3:15</reference>. It is therefore our duty in meekness and love to give an answer to those godly persons, which desire to be fully informed of our judgment concerning religion and the ways of our God; To those therefore that have expressed a desire to be so informed, I thus answer.
+				</p>
+				<p>
+					In a book lately reprinted, entitled, A Confession of Faith of Several Congregations or Churches of Christ in London, etc. is a plain and sincere expression of our judgment in the things therein spoken of, in 52 Articles: And if our judgment touching some particulars, wherein we seem, or are supposed, to dissent from some others, do not appear clearly enough in that confession, I hope that same shall somewhat more clearly appear in this ensuing Appendix.
+				</p>
+			</div>
 			<div type="chapter" osisID="Appx_Section 1">
 				<title>
 					Appendix - Section I
