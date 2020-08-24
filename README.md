@@ -13,4 +13,5 @@ Some corrections were applied from the information found [here](http://kinseydri
 ## Crosswire Release
 Crosswire has now released this module as [version 1.0](https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=BaptistConfession1646) (2020-08-01). It can be used in applications found [here](https://www.crosswire.org/applications/) that support genbooks. The module has been tested to work on [Xiphos](https://xiphos.org/) and [Study Bible App by And Bible](https://andbible.github.io/), but should also work on other applications that support Crosswire genbooks.
 
+## License
 This work is in the PUBLIC DOMAIN
