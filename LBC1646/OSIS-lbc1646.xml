@@ -1227,8 +1227,7 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 					<reference osisRef="Rom.16.23">Rom. 16:23</reference>;
 					<reference osisRef="Deut.6.13">Deut. 6:13</reference>;
 					<reference osisRef="Rom.1.9">Rom. 1:9</reference>;
-					<reference osisRef="2Cor.10">2 Cor. 10</reference>,
-					<reference osisRef="2Cor.11">11</reference>;
+					<reference osisRef="2Cor.10.11">2 Cor. 10:11</reference>;
 					<reference osisRef="Jer.4.2">Jer. 4:2</reference>;
 					<reference osisRef="Heb.6.16">Heb. 6:16</reference>.
 				</p>
