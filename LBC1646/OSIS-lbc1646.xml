@@ -5,6 +5,9 @@ https://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd"
 	xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
 	<osisText osisIDWork="BaptistConfession1646" osisRefWork="book" xml:lang="en">
 		<header>
+			<revisionDesc resp="Timmy Braun"><date>2021.07.19</date>
+				<p>Fixed missing "reference" link and fixed reference in section 50</p>
+			</revisionDesc>
 			<revisionDesc resp="Timmy Braun"><date>2020.06.22</date>
 				<p>Added table of contents</p>
 			</revisionDesc>
