@@ -11,7 +11,7 @@ Some corrections were applied from the information found [here](http://kinseydri
 **Note: The table of contents uses osisRef with "/"**, which does not currently (2020-06-22) validate to OSIS schema. Note about it was added [here](https://wiki.crosswire.org/OSIS_211_CR#Correct_the_osisRef_syntax_for_a_non-verse-keyed_OSIS_module) by David Haslam. Also see issue [#9](https://github.com/timbze/first-london-baptist-confession-1646/issues/9)
 
 ## Crosswire Release
-Crosswire has now released this module as [version 1.0](https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=BaptistConfession1646) (2020-08-01). It can be used in applications found [here](https://www.crosswire.org/applications/) that support genbooks. The module has been tested to work on [Xiphos](https://xiphos.org/) and [Study Bible App by And Bible](https://andbible.github.io/), but should also work on other applications that support Crosswire genbooks.
+Crosswire has now released this module as [version 1.0](https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=BaptistConfession1646) (2020-08-01). It can be used in applications found [here](https://www.crosswire.org/applications/) that support genbooks. The module has been tested to work on [Xiphos](https://xiphos.org/) and [AndBible: Bible Study](https://andbible.github.io/), but should also work on other applications that support Crosswire genbooks.
 
 ## License
 This work is in the PUBLIC DOMAIN
